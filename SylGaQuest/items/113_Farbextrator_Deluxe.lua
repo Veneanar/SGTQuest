@@ -1,0 +1,1 @@
+C:/Program Files (x86)/World of Warcraft/interface/addons/SylGaQuest/items/113_Farbextrator_Deluxe.lua

@@ -1,0 +1,1 @@
+C:/Program Files (x86)/World of Warcraft/interface/addons/SylGaQuest/items/124_magischer_Stein.lua

@@ -1,0 +1,1 @@
+C:/Program Files (x86)/World of Warcraft/interface/addons/SylGaQuest/items/106_Murloc_Kehlblase.lua

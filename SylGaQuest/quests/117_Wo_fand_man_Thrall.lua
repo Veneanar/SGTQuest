@@ -1,0 +1,1 @@
+C:/Program Files (x86)/World of Warcraft/interface/addons/SylGaQuest/quests/117_Wo_fand_man_Thrall.lua

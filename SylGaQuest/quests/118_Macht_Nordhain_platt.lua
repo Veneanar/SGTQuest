@@ -1,0 +1,1 @@
+C:/Program Files (x86)/World of Warcraft/interface/addons/SylGaQuest/quests/118_Macht_Nordhain_platt.lua

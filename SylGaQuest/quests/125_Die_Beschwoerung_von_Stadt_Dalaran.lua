@@ -1,0 +1,1 @@
+C:/Program Files (x86)/World of Warcraft/interface/addons/SylGaQuest/quests/125_Die_Beschwoerung_von_Stadt_Dalaran.lua
